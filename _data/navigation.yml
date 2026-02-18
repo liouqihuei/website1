@@ -1,0 +1,25 @@
+# main links (锚点与 _pages/about.md 中的标题对应)
+main:
+  - title: "个人简介"
+    url: "/#about-me"
+
+  - title: "教育经历"
+    url: "/#-教育经历--education"
+
+  - title: "动态"
+    url: "/#-动态--news"
+
+  - title: "发表论文"
+    url: "/#-发表论文--publications"
+
+  - title: "荣誉与奖励"
+    url: "/#-荣誉与奖励--honors-and-awards"
+
+  - title: "项目经历"
+    url: "/#-项目经历--projects"
+
+  - title: "学术服务"
+    url: "/#services"
+
+  - title: "其他"
+    url: "/#miscellaneous"

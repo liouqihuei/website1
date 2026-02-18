@@ -1,0 +1,20 @@
+current directory: C:/Users/12072/Downloads/arctanxarc.github.io-master/arctanxarc.github.io-master/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/12072/Downloads/arctanxarc.github.io-master/arctanxarc.github.io-master/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260218-9392-ha1qi sitelibdir\=./.gem.20260218-9392-ha1qi clean
+
+current directory: C:/Users/12072/Downloads/arctanxarc.github.io-master/arctanxarc.github.io-master/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260218-9392-ha1qi sitelibdir\=./.gem.20260218-9392-ha1qi
+generating fastfilereaderext-x64-mingw-ucrt.def
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: C:/Users/12072/Downloads/arctanxarc.github.io-master/arctanxarc.github.io-master/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260218-9392-ha1qi sitelibdir\=./.gem.20260218-9392-ha1qi install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260218-9392-ha1qi
+
+current directory: C:/Users/12072/Downloads/arctanxarc.github.io-master/arctanxarc.github.io-master/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260218-9392-ha1qi sitelibdir\=./.gem.20260218-9392-ha1qi clean
