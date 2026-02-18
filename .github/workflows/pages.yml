@@ -15,9 +15,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
+          bundler-cache: false
       - name: Build site
         run: |
+          bundle config set --local path 'vendor/bundle'
           bundle install
           bundle exec jekyll build --baseurl "/website1"
       - name: Deploy to gh-pages
