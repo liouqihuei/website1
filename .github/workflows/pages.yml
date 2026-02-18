@@ -20,8 +20,8 @@ jobs:
       - name: Build site
         run: |
           bundle config set --local path 'vendor/bundle'
-          bundle install
-          bundle exec jekyll build --baseurl "/website1"
+          bundle install --binstubs
+          ./bin/jekyll build --baseurl "/website1"
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
