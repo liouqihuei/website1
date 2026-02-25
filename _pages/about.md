@@ -275,7 +275,7 @@ redirect_from:
 
 # 👤 Biography
 
-我是**刘启慧**，[**中国科学院上海微系统与信息技术研究所**](http://www.sim.ac.cn/)（SIMIT）**传感器技术全国重点实验室** **特别研究助理**（上海市“超级博士后”）。合作导师**武震宇(zhenyu.wu@mail.sim.ac.cn)研究员**、**陈浩(haochen@mail.sim.ac.cn)研究员**，博士导师**程建功(jgcheng@mail.sim.ac.cn)研究员**。研究方向为**先进电磁传感器及应用**，专业为**微电子学与固体电子学**。欢迎通过邮件或侧栏链接与我联系。
+我是**刘启慧**，[**中国科学院上海微系统与信息技术研究所**](http://www.sim.ac.cn/)（SIMIT）**传感器技术全国重点实验室** **特别研究助理**（上海市“超级博士后”）。合作导师[**武震宇**](mailto:zhenyu.wu@mail.sim.ac.cn)研究员、[**陈浩**](mailto:haochen@mail.sim.ac.cn)研究员，博士导师[**程建功**](mailto:jgcheng@mail.sim.ac.cn)研究员。研究方向为**先进电磁传感器及应用**，专业为**微电子学与固体电子学**。欢迎通过邮件或侧栏链接与我联系。
 
 I am **Liu Qihui** (刘启慧), a **Special Research Assistant** (Shanghai "Super Postdoc") at the **National Key Laboratory of Sensor Technology**, [**Shanghai Institute of Microsystem and Information Technology (SIMIT)**](http://www.sim.ac.cn/), Chinese Academy of Sciences. My research focuses on **advanced electromagnetic sensors and applications** (Microelectronics and Solid-State Electronics). Please feel free to reach out via email or the links in the sidebar.
 
@@ -389,12 +389,3 @@ I am **Liu Qihui** (刘启慧), a **Special Research Assistant** (Shanghai "Supe
 
 - 传感国际顶会 **TRANSDUCERS** 参会（2023 京都 Poster，2025 奥兰多 Oral）
 
-<br>
-
-<span class='anchor' id='miscellaneous'></span>
-
-# 😄 专业技能 / Skills
-
-- 传感器及传感测量系统开发；Labview、Matlab 算法编程与信号处理  
-- Verilog 与 FPGA 开发，集成传感器信号调理与测试分析  
-- Solidworks、HFSS、Altium Designer、Multisim 等仿真与电路制备
