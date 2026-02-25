@@ -350,12 +350,12 @@ I am **Liu Qihui** (刘启慧), a **Special Research Assistant** (Shanghai "Supe
   <li category="Journal" first_authored="true"><strong>Liu Q</strong>, Yan B, Liu J. U-shaped photonic quasi-crystal fiber sensor with high sensitivity based on surface plasmon resonance. <em>Applied Physics Express</em>, 2019, 12(5): 052014.</li>
 </ul>
 
-## 会议论文 / Conference Papers
+## Conference Papers
 
 - **TRANSDUCERS 2025**, Orlando, USA — **Oral**
 - **TRANSDUCERS 2023**, Kyoto, Japan — Poster
 
-## 专利 / Patents
+## Patents
 
 1. 高速大动态范围磁场测量系统，授权，专利号：ZL202210110472.7  
 2. 一种基于钻石NV色心的量子电流传感器，授权，专利号：ZL20221955451.7  
@@ -364,28 +364,8 @@ I am **Liu Qihui** (刘启慧), a **Special Research Assistant** (Shanghai "Supe
 
 <span class='anchor' id='-荣誉与奖励--honors-and-awards'></span>
 
-# 🥇 荣誉与奖励 / Honors and Awards
+# 🥇 Honors and Awards
 
 - **工作期间：** 上海市“超级博士后”；制造业智能化解决方案创新大赛技术创新奖  
 - **博士期间：** 国家奖学金（博士）；三好学生；上海市优秀毕业生；中国科学院院长优秀奖  
 - **本科期间：** 校园杯辩论赛季军；优秀团员；优秀学生干部；三好学生；学生会主席
-
-<span class='anchor' id='-项目经历--projects'></span>
-
-# 📂 项目经历 / Projects
-
-- **2023.12–至今** &nbsp; **宽温域高精度量子电流敏感元件及传感器**（国家重点研发计划，核心骨干）  
-  集成钻石量子传感器电流测量开发及应用化推进。开环/闭环量子电流传感器设计，双频共振与磁-温双闭环算法；超高压电网备用传感与微波天线发射方案等。10kA 工况电流传感器于南方电网昆柳龙±800kV 挂网，入选国家能源局首台（套）装备；100A 泄露电流传感器于贵州电网乌撒变电站应用。
-
-- **2021.08–2023.10** &nbsp; **基于 MEMS 的磁测量技术**（基础加强项目，核心骨干）  
-  FPGA 快速频移系统研发，用于钻石传感器磁场测量；数字采集与处理软件平台；与极低场 MRI 磁脉冲校准（50 mT 脉冲场还原）。
-
-- **2021.05–2024.09** &nbsp; **钻石传感器集成与封装技术研究**（中科院战略先导专项课题，核心骨干）  
-  光学共聚焦系统与可移动钻石量子表征系统；集成钻石探头移动式磁测量系统；单颗钻石矢量磁场轨迹追踪的矢量矩阵算法。
-
-<span class='anchor' id='services'></span>
-
-# 💼 学术服务 / Services
-
-- 传感国际顶会 **TRANSDUCERS** 参会（2023 京都 Poster，2025 奥兰多 Oral）
-
