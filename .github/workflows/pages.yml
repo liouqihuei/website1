@@ -20,6 +20,7 @@ jobs:
       - name: Build site
         run: |
           bundle config set --local path 'vendor/bundle'
+          bundle config unset mirror.https://rubygems.org/
           bundle install --binstubs
           ./bin/jekyll build --baseurl "/website1"
       - name: Deploy to gh-pages
